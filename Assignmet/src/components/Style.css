@@ -1,0 +1,21 @@
+
+
+.mt-0{
+padding: 12px;
+}
+
+  body {
+    font-family: 'open sans', sans-serif;
+    font-size: 16px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  
+  tbody tr:hover {
+    background-color: #eee;
+  }
+
